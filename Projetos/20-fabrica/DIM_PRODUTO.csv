@@ -1,0 +1,9 @@
+id_produto,nome,categoria,tipo
+1,Parafuso 10mm,Fixadores,Acabado
+2,Porca M10,Fixadores,Acabado
+3,Eixo Central,Mecânico,Semiacabado
+4,Tampa Plástica,Plástico,Acabado
+5,Motor 2HP,Eletrônico,Componente
+6,Engrenagem 20D,Mecânico,Componente
+7,Sensor Óptico,Eletrônico,Componente
+8,Suporte Metálico,Estrutural,Semiacabado

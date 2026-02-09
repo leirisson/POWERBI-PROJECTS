@@ -1,0 +1,6 @@
+id_maquina,codigo,modelo,setor
+1,MQ-001,Prensa Hidráulica PH-300,Estamparia
+2,MQ-002,Injetora Plástica IP-200,Injeção
+3,MQ-003,CNC Router CR-500,Usinagem
+4,MQ-004,Linha de Montagem LM-100,Montagem
+5,MQ-005,Forno Tratamento FT-80,Tratamento
